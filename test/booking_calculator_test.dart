@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import '../lib/utils/booking_calculator.dart';
+import 'package:nightowl/utils/booking_calculator.dart';
 
 void main() {
   group('BookingCalculator', () {
